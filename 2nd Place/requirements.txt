@@ -1,5 +1,5 @@
 albumentations
-cv2
+opencv-python
 jpeg4py
 matplotlib
 numpy
